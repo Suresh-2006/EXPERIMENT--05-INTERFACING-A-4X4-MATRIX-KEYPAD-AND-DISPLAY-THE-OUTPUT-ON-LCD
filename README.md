@@ -1,5 +1,6 @@
-# EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
-
+# EXPERIMENT 05 INTERFACING A 4X4 MATRIX KEYPAD AND DISPLAY THE OUTPUT ON LCD
+### Name: Suresh S
+### Reg No: 212223040215
 ## Aim: 
 To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM controller , and simulate it in Proteus
 ## Components required: 
@@ -178,7 +179,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## CIRCUIT DIAGRAM 
- <img width="1260" height="883" alt="image" src="https://github.com/user-attachments/assets/377ce517-d55e-42aa-8eb3-f19ceab8f415" />
+<img width="788" height="834" alt="image" src="https://github.com/user-attachments/assets/baf7d0f2-66d0-4dab-8e80-bf1480a8ac92" />
+
 
 
 ## STM 32 CUBE PROGRAM :
